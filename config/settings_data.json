@@ -1,0 +1,1080 @@
+{
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo": "shopify:\/\/shop_images\/ceayabagaeaCatauafaBaJaiulaiaSeiAaee_ver.png",
+          "logo_max_width": 250,
+          "main_linklist": "main-menu",
+          "message": false,
+          "home_page_only": true,
+          "message_text": "ここで告知してください",
+          "message_link": "",
+          "color_bg": "#3a3a3a",
+          "color_text": "#ffffff"
+        }
+      },
+      "hero-1": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/cat-enjoying-the-view.jpg",
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "medium",
+          "text_size": "medium",
+          "title": "ネットショップ ペットライフメディカル",
+          "text": "<p>お勧めの治療器をご紹介<\/p>",
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/cat-enjoying-the-view.jpg",
+          "layout": "left",
+          "title": "テキスト付き画像",
+          "text": "<p>あなたが選んだ商品、コレクション、またはブログ記事に注目を集めるため、大きなテキストと画像を組み合わせます。可用性、スタイル、またはレビュー提供についての詳細を追加します。<\/p>",
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "feature-columns": {
+        "type": "feature-columns",
+        "settings": {
+          "title": "重要なお知らせ",
+          "align_text": "left"
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "title": "比較歯科学研究会様向け",
+          "collection": "",
+          "grid": 2,
+          "rows": 1,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "blocks": {
+          "quotes-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>あなたのストアの幸せなお客様を紹介するために、カスタマーレビューとお客様の声を追加してください。<\/p>",
+              "author": "筆者の名前"
+            }
+          },
+          "quotes-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>あなたのストアの幸せなお客様を紹介するために、カスタマーレビューとお客様の声を追加してください。<\/p>",
+              "author": "筆者の名前"
+            }
+          },
+          "quotes-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>あなたのストアの幸せなお客様を紹介するために、カスタマーレビューとお客様の声を追加してください。<\/p>",
+              "author": "筆者の名前"
+            }
+          }
+        },
+        "block_order": [
+          "quotes-0",
+          "quotes-1",
+          "quotes-2"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": ""
+        }
+      },
+      "image-bar": {
+        "type": "image-bar",
+        "blocks": {
+          "image-bar-0": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "image-bar-1": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "image-bar-2": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "link": "",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "image-bar-0",
+          "image-bar-1",
+          "image-bar-2"
+        ],
+        "disabled": true,
+        "settings": {
+          "section_height": "small"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "title": "",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "newsletter",
+            "disabled": true,
+            "settings": {
+              "title": "ニュースレター"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "color_footer_bg": "#f6f6f6",
+          "color_footer_text": "#333232",
+          "show_locale_selector": true,
+          "show_currency_selector": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": false,
+          "show_vendor": true,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "あなたへのおすすめ",
+          "show_vendor": false
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 4,
+          "rows": 2,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "162633081444a85276": {
+        "type": "collection-list",
+        "blocks": {
+          "162633081444a85276-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "奥村先生ご推薦"
+            }
+          },
+          "162633081444a85276-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "戸田先生ご推薦"
+            }
+          }
+        },
+        "block_order": [
+          "162633081444a85276-0",
+          "162633081444a85276-1"
+        ],
+        "settings": {
+          "title": "先生おすすめの歯科器具",
+          "grid": 3
+        }
+      },
+      "1626610370c66f860c": {
+        "type": "feature-columns",
+        "blocks": {
+          "4dac19cc-d66f-4d04-b877-0bfc80832e5b": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/09558.jpg",
+              "title": "診断で必要な器具",
+              "text": "<p>歯科処置をする前に診断を行うのに必要な器具をご紹介<\/p>",
+              "button_label": "診断",
+              "button_link": "shopify:\/\/collections\/診断"
+            }
+          },
+          "29f5f7c4-6b9a-4d3f-8dd0-1afdf2502a02": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/g-sakura.jpg",
+              "title": "歯周病治療で必要な器具",
+              "text": "<p>歯周病治療に必要な歯科器具をご紹介<\/p>",
+              "button_label": "歯周病治療",
+              "button_link": "shopify:\/\/collections\/歯周病治療"
+            }
+          },
+          "a73b52af-8cab-4696-bd39-fb325d38205a": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/2678240_detailImage1.png",
+              "title": "抜歯処置に必要な器具",
+              "text": "<p>抜歯処置に必要な歯科器具をご紹介<\/p>",
+              "button_label": "抜歯処置",
+              "button_link": "shopify:\/\/collections\/抜歯処置"
+            }
+          },
+          "ac793c83-9e11-4f72-adbf-4c2c3b62f25b": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/gds_fa1.jpg",
+              "title": "歯内療法で必要な器具",
+              "text": "<p>根管拡大やGPの処置に便利な商品をご紹介<\/p>",
+              "button_label": "歯内用処置器具",
+              "button_link": "shopify:\/\/collections\/歯内療法"
+            }
+          },
+          "a298c601-1254-44f3-80ee-40d783c853bb": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/FG7803.png",
+              "title": "コンポジットレジン修復で必要な器具",
+              "text": "<p>CRで使う器具ならびにドリルバーを紹介<\/p>",
+              "button_label": "CR処置用バー",
+              "button_link": "shopify:\/\/collections\/cr処置"
+            }
+          }
+        },
+        "block_order": [
+          "4dac19cc-d66f-4d04-b877-0bfc80832e5b",
+          "29f5f7c4-6b9a-4d3f-8dd0-1afdf2502a02",
+          "a73b52af-8cab-4696-bd39-fb325d38205a",
+          "ac793c83-9e11-4f72-adbf-4c2c3b62f25b",
+          "a298c601-1254-44f3-80ee-40d783c853bb"
+        ],
+        "settings": {
+          "title": "症例別必要な器具一覧",
+          "align_text": "left"
+        }
+      },
+      "1629439461ba1f9925": {
+        "type": "rich-text",
+        "settings": {
+          "full_width": false,
+          "section_title": "ペットライフメディカルの思い",
+          "text": "<p>私達は病院、飼主様、ペットのお役に立つことを目的に設立した会社です<\/p><p><\/p><p>病院様には現場でより役立つ医療機器を<\/p><p>飼主様にはペットとの生活の向上に役立つ商品を<\/p><p>ペットならびに患者様にはより安全に治療を<\/p><p>企画開発ならびに紹介をしていきます。<\/p>",
+          "text_size": "medium"
+        }
+      },
+      "165457315132ae861f": {
+        "type": "feature-columns",
+        "blocks": {
+          "b8bfd433-1cce-4ddb-9d67-96111a8a3888": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/2.jpg",
+              "title": "SRPの処置の流れと必要な器具について",
+              "text": "<p>これからSRP治療を始めようとしている先生方にSRP治療の流れと、使用される器具について解説します<\/p>",
+              "button_label": "SRPの処置の流れと必要な器具について",
+              "button_link": "shopify:\/\/blogs\/ニュース\/歯周病治療で必要な器具について"
+            }
+          },
+          "165457315132ae861f-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/images.jpg",
+              "title": "歯内療法で使う器具について解説【動画付き】",
+              "text": "<p>歯内療法で使う器具一覧です。<\/p><p>折角歯内療法のセミナーを受けたのにどの器具を揃えれば分からないという声にお応えしました。<\/p><p>動画を見てそれぞれの処置で使う器具を細かく紹介します<\/p>",
+              "button_label": "紹介記事へ",
+              "button_link": "shopify:\/\/blogs\/ニュース\/コンポジットレジン充填を含む歯内療法の流れと使用する器具について"
+            }
+          },
+          "120bd4ab-7552-4404-b4d9-117253ffbdf4": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/f1796126aa0fc6f98844b5674b8c1cb5_023b2cf9-692e-4d97-9c96-8fb8767b9da0.jpg",
+              "title": "コンポジットレジン修復で使用する器具について",
+              "text": "<p>コンポジットレジン修復を始めたい先生方のための手順の解説と必要な器具の紹介です<\/p>",
+              "button_label": "紹介記事へ",
+              "button_link": "shopify:\/\/blogs\/ニュース\/コンポジットレジン修復"
+            }
+          }
+        },
+        "block_order": [
+          "b8bfd433-1cce-4ddb-9d67-96111a8a3888",
+          "165457315132ae861f-0",
+          "120bd4ab-7552-4404-b4d9-117253ffbdf4"
+        ],
+        "settings": {
+          "title": "セミナー連動ブログ",
+          "align_text": "left"
+        }
+      },
+      "16547544536785ca27": {
+        "type": "collection-list",
+        "blocks": {
+          "16547544536785ca27-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "バシロジック"
+            }
+          },
+          "330ddab4-00f2-4a5d-840a-2f3696d20854": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "デントクラフトre"
+            }
+          },
+          "bb1486cb-4218-4ce3-bcca-8ec23c64544b": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "hyflex™-edm"
+            }
+          },
+          "70869b04-4979-4e2b-8a49-54dba9803223": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "スケーラー"
+            }
+          },
+          "16547544536785ca27-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "歯科用レントゲン"
+            }
+          },
+          "4299bd08-1c1f-453c-8875-009a8863981a": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "顕微鏡"
+            }
+          },
+          "e237b50d-e63c-46a0-ae8f-5f50f86e03ee": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "電気メス"
+            }
+          },
+          "84fb690f-728b-468c-b326-8d9acca8f77a": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "光重合器"
+            }
+          }
+        },
+        "block_order": [
+          "16547544536785ca27-1",
+          "330ddab4-00f2-4a5d-840a-2f3696d20854",
+          "bb1486cb-4218-4ce3-bcca-8ec23c64544b",
+          "70869b04-4979-4e2b-8a49-54dba9803223",
+          "16547544536785ca27-2",
+          "4299bd08-1c1f-453c-8875-009a8863981a",
+          "e237b50d-e63c-46a0-ae8f-5f50f86e03ee",
+          "84fb690f-728b-468c-b326-8d9acca8f77a"
+        ],
+        "settings": {
+          "title": "",
+          "grid": 5
+        }
+      },
+      "1654754466980b2a1f": {
+        "type": "collection-list",
+        "blocks": {
+          "1654754466980b2a1f-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ハサミ"
+            }
+          },
+          "1654754466980b2a1f-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ピンセット"
+            }
+          },
+          "364cb4af-6c01-40c6-bd72-03dd06e1dfeb": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ミラー"
+            }
+          },
+          "1654754466980b2a1f-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "プローブ-カラーコード"
+            }
+          },
+          "2906bbdc-8f6b-4487-953b-39a492051d80": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "メス"
+            }
+          },
+          "9c24b21e-7346-4819-b3ad-88664db8d30c": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "グレイシーキュレット"
+            }
+          },
+          "44cf5d15-0b96-49ae-aa68-c0a1668d90b4": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "持針器"
+            }
+          },
+          "215d94cb-6d4b-4959-b492-dfed743d5099": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "抜歯鉗子"
+            }
+          },
+          "63108c9a-d281-46a1-bc6b-726ec44cb4d6": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "エレベータ"
+            }
+          },
+          "46b06cd0-f1aa-4868-9ca7-35da15719766": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "骨膜剝離子"
+            }
+          },
+          "475ca0d3-b6b5-4dc6-af4c-2821c0d5abf1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "鋭匙-キュレット"
+            }
+          }
+        },
+        "block_order": [
+          "1654754466980b2a1f-0",
+          "1654754466980b2a1f-1",
+          "364cb4af-6c01-40c6-bd72-03dd06e1dfeb",
+          "1654754466980b2a1f-2",
+          "2906bbdc-8f6b-4487-953b-39a492051d80",
+          "9c24b21e-7346-4819-b3ad-88664db8d30c",
+          "44cf5d15-0b96-49ae-aa68-c0a1668d90b4",
+          "215d94cb-6d4b-4959-b492-dfed743d5099",
+          "63108c9a-d281-46a1-bc6b-726ec44cb4d6",
+          "46b06cd0-f1aa-4868-9ca7-35da15719766",
+          "475ca0d3-b6b5-4dc6-af4c-2821c0d5abf1"
+        ],
+        "settings": {
+          "title": "",
+          "grid": 5
+        }
+      },
+      "165475508850d54782": {
+        "type": "collection-list",
+        "blocks": {
+          "4b2c0608-e689-4ba9-a54a-920810c1829b": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "手用ファイル"
+            }
+          },
+          "56227bc3-eed3-447c-9fc3-28a7569a5bca": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "コンポジットレジン"
+            }
+          },
+          "a736dc18-7c9c-4d4a-a540-de13bda4f6b1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "エッジング剤"
+            }
+          },
+          "ce464019-6509-45e2-94c2-939dfcdbb881": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ボンディング剤"
+            }
+          },
+          "e291a79d-7c74-4118-a29c-a499323e3a83": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ガッターパーチャポイント-メイン-アクセサリー"
+            }
+          },
+          "e790012d-79cf-46e0-a636-f8ad07c5fe7f": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ラバーダム関連製品"
+            }
+          },
+          "f7848641-b3e3-4959-a12a-8f2b54fdaf21": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "根管洗浄"
+            }
+          },
+          "60afd071-d877-4b30-a7d9-1cc2f0a6f9d8": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "覆罩"
+            }
+          },
+          "6c0a8c52-1a90-45c9-bd0f-8034a00d3753": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "ペーパーポイント"
+            }
+          },
+          "27476b0d-7f33-47f3-8cbb-b3bb2585635d": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "充填"
+            }
+          }
+        },
+        "block_order": [
+          "4b2c0608-e689-4ba9-a54a-920810c1829b",
+          "56227bc3-eed3-447c-9fc3-28a7569a5bca",
+          "a736dc18-7c9c-4d4a-a540-de13bda4f6b1",
+          "ce464019-6509-45e2-94c2-939dfcdbb881",
+          "e291a79d-7c74-4118-a29c-a499323e3a83",
+          "e790012d-79cf-46e0-a636-f8ad07c5fe7f",
+          "f7848641-b3e3-4959-a12a-8f2b54fdaf21",
+          "60afd071-d877-4b30-a7d9-1cc2f0a6f9d8",
+          "6c0a8c52-1a90-45c9-bd0f-8034a00d3753",
+          "27476b0d-7f33-47f3-8cbb-b3bb2585635d"
+        ],
+        "settings": {
+          "title": "",
+          "grid": 5
+        }
+      },
+      "03532b83-b605-4633-844b-4465be3f70d7": {
+        "type": "collection-list",
+        "blocks": {
+          "03532b83-b605-4633-844b-4465be3f70d7-166796285960b0ad54-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "fgダイヤモンドバー"
+            }
+          },
+          "03532b83-b605-4633-844b-4465be3f70d7-166796285960b0ad54-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "caポリッシングバー"
+            }
+          }
+        },
+        "block_order": [
+          "03532b83-b605-4633-844b-4465be3f70d7-166796285960b0ad54-0",
+          "03532b83-b605-4633-844b-4465be3f70d7-166796285960b0ad54-1"
+        ],
+        "settings": {
+          "title": "",
+          "grid": 5
+        }
+      },
+      "3f0a1a77-b1af-4b99-bbab-7ebf4e284ab9": {
+        "type": "collection-list",
+        "blocks": {
+          "3f0a1a77-b1af-4b99-bbab-7ebf4e284ab9-167193449843c7303a-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "練習用"
+            }
+          },
+          "3f0a1a77-b1af-4b99-bbab-7ebf4e284ab9-167193449843c7303a-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "トレーニングブロック"
+            }
+          }
+        },
+        "block_order": [
+          "3f0a1a77-b1af-4b99-bbab-7ebf4e284ab9-167193449843c7303a-0",
+          "3f0a1a77-b1af-4b99-bbab-7ebf4e284ab9-167193449843c7303a-1"
+        ],
+        "settings": {
+          "title": "",
+          "grid": 3
+        }
+      },
+      "c748bb1a-acb3-4a4f-a9f3-7fdaed955db8": {
+        "type": "feature-columns",
+        "blocks": {
+          "c748bb1a-acb3-4a4f-a9f3-7fdaed955db8-text_block-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/1.png",
+              "title": "３つの器具だけで高速抜歯セミナー",
+              "text": "<p>パーク動物病院の奥村先生による高速抜歯セミナーです。<\/p><p>今回は１人１台のマイクロスコープを使用し、しっかり確認しながら練習が出来ます。<\/p><p>また参加者には奥村先生考案の動物用エレベーターON-1を弊社からご提供し、そのまま実習を受けられます。<\/p><p>是非お見逃しの無いようお願いいたします<\/p>",
+              "button_label": "３つの器具だけで高速抜歯セミナー申し込み",
+              "button_link": "shopify:\/\/products\/奥村先生による-３つの器具だけで高速抜歯セミナー-犬猫全部盛り編"
+            }
+          }
+        },
+        "block_order": [
+          "c748bb1a-acb3-4a4f-a9f3-7fdaed955db8-text_block-1"
+        ],
+        "settings": {
+          "title": "セミナーのご案内",
+          "align_text": "left"
+        }
+      }
+    },
+    "content_for_index": [
+      "hero-1",
+      "1629439461ba1f9925",
+      "c748bb1a-acb3-4a4f-a9f3-7fdaed955db8",
+      "165457315132ae861f",
+      "162633081444a85276",
+      "1626610370c66f860c",
+      "image-bar",
+      "quotes",
+      "16547544536785ca27",
+      "1654754466980b2a1f",
+      "165475508850d54782",
+      "03532b83-b605-4633-844b-4465be3f70d7",
+      "3f0a1a77-b1af-4b99-bbab-7ebf4e284ab9"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+          }
+        },
+        "hero-1": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "text_size": "large"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+          }
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-1": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-2": {
+              "type": "text_block",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "grid": 4
+          }
+        },
+        "hero-2": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "quotes": {
+          "type": "quotes",
+          "blocks": {
+            "quotes-0": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-1": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-2": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "quotes-0",
+            "quotes-1",
+            "quotes-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "image-bar": {
+          "type": "image-bar",
+          "blocks": {
+            "image-bar-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "image-bar-0",
+            "image-bar-1",
+            "image-bar-2"
+          ],
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        }
+      },
+      "content_for_index": [
+        "hero-1",
+        "feature-row",
+        "feature-columns",
+        "collection",
+        "hero-2",
+        "quotes",
+        "image-bar"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_vendor": false,
+            "show_share_buttons": true,
+            "media_size": "medium",
+            "enable_image_zoom": true,
+            "enable_video_looping": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {
+          }
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {
+          }
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "link_list",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "color_footer_bg": "#f8f8f8",
+            "color_footer_text": "#6d6d6d"
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}
