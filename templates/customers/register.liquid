@@ -60,11 +60,45 @@
               <span>{{ form.errors.translated_fields['password'] | capitalize }} {{ form.errors.messages['password'] }}.</span>
             </span>
           {%- endif -%}
-
+	  <p>あなたは医療従事者ですか？</p>
+	  <ul>
+	    <li>
+	      <label for="CustomerJobs1">
+		<input type="radio"
+		       id="CustomerJobs1"
+		       name="customer[note][Jobtype]"
+		       value="獣医師"
+		       checked
+		       />はい獣医師です</label>
+	    </li>
+	    <li>	    
+	      <label for="CustomerJobs2">
+		<input type="radio"
+		       id="CustomerJobs2"
+		       name="customer[note][Jobtype]"
+		       value="医師"
+		       />はい医師です</label>	  
+	    </li>
+	    <li>	    
+	      <label for="CustomerJobs3">
+		<input type="radio"
+		       id="CustomerJobs3"
+		       name="customer[note][Jobtype]"
+		       value="医療関係者"
+		       />はい医療関係者です</label>	  
+	    </li>
+	    <li>	    
+	      <label for="CustomerJobs4">
+		<input type="radio"
+		       id="CustomerJobs4"
+		       name="customer[note][Jobtype]"
+		       value="医療関係者以外"
+		       />いいえ医療関係者ではありません</label>	  
+	    </li>	    	    
+	  </ul>
           <p class="text-center">
             <input type="submit" value="{{ 'customer.register.submit' | t }}" class="btn">
           </p>
-
         {% endform %}
       </div>
     </div>
